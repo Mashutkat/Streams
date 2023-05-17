@@ -1,0 +1,29 @@
+@font-face {
+	font-family: 'Minecraft';
+	src: url('Minecraft.ttf');
+}
+
+body {
+	font-family: 'Minecraft', sans-serif;
+	font-size: 16px;
+    background-color: cornflowerblue;
+    background-image: url("bg_main.png");
+}
+
+h1 {
+	font-size: 36px;
+	color: #8f8f8f;
+	font-family: 'Minecraft', sans-serif;
+}
+
+a {
+	font-size: 36px;
+	color: #8b8b8b;
+	font-family: 'Minecraft', sans-serif;
+}
+
+p {
+	font-size: 18px;
+	line-height: 1.5;
+	font-family: 'Minecraft', sans-serif;
+}
